@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Cormier Jewel",
+      "dept": "Jewelery",
+      "city": "Pasadena"
+    },
+    {
+      "id": 2,
+      "name": "Hessel Erin",
+      "dept": "Garden",
+      "city": "Long Beach"
+    },
+    {
+      "name": "김영우",
+      "job": "DeepNatural FE Dev",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1001,
+      "productName": "Handmade Plastic Mouse",
+      "price": "212.00",
+      "brand": "Towne, Bauch and Quitzon and Sons"
+    },
+    {
+      "id": 1002,
+      "productName": "Sleek Rubber Chicken",
+      "price": "502.00",
+      "brand": "Marks LLC and Sons"
+    }
+  ]
+}
